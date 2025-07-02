@@ -1,8 +1,4 @@
-# Project Name 🚀
-
-<p align="center">
-  <img src="https://example.com/logo.png" alt="Logo" width="200"/>
-</p>
+# AI_POWERED_VULNERABILITY_SCANNER
 
 <p align="center">
   <em>A short description of your awesome project</em>
@@ -10,14 +6,12 @@
 
 ---
 
-## Features ✨
+## Features 
 
-- ✅ *Feature 1*: Description aligned properly
-- 🔥 *Feature 2*: With consistent indentation
-- 🛡 *Feature 3*: Using emojis for visual alignment
+- To detect easily sql injection & cross-site-scripting(xss) attacks in website by using URL.
+- Available in both command line interafce and graphical user interface in this software.
 
-## Installation ⚙
+## Installation 
+# Python 3
+sudo apt install python3(linux)
 
-```bash
-# Aligned code block
-npm install your-package
