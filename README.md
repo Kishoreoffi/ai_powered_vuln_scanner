@@ -1,7 +1,7 @@
 # AI_POWERED_VULNERABILITY_SCANNER
 
 <p align="center">
-  <em>A short description of your awesome project</em>
+  <em>Developed a security scanner leveraging AI to detect system vulnerabilities, offering both command-line and graphical user controls for flexible use</em>
 </p>
 
 ---
