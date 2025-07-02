@@ -14,6 +14,6 @@
 
 ## Installation 
 # Python 3
-sudo apt install python3(linux).
-Windows manually installation setup.
+- sudo apt install python3(linux).
+- Windows manually installation setup.
 
